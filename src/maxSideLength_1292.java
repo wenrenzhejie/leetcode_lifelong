@@ -1,3 +1,4 @@
+//知识点：矩阵的前缀和
 public class maxSideLength_1292 {
     public int maxSideLength1(int[][] mat, int threshold) {
         //用到的知识点：二维数组的前缀和(矩阵前缀和)
